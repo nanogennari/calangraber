@@ -1,3 +1,5 @@
+Esse firmware está configurado para a Calangraber a impressora 3D do calango, os arquivos contidos nesta pasta estão sob a mesma licensa do projeto Marlin: https://github.com/MarlinFirmware/Marlin
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
